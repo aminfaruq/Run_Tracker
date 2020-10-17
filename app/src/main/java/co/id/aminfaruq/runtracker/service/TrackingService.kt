@@ -256,3 +256,4 @@ class TrackingService : LifecycleService() {
         notificationManager.createNotificationChannel(channel)
     }
 }
+// si kecil udah mulai aktif ya bund
